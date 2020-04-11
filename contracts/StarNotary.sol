@@ -13,7 +13,7 @@ contract StarNotary is ERC721 {
 
     // Implement Task 1 Add a name and symbol properties
     // name: Is a short name to your token
-    string public constant name = "JHG Coin";
+    string public constant name = "JHG_Coin";
     // symbol: Is a short string like 'USD' -> 'American Dollar'
     string public constant symbol = "JHG";
 
